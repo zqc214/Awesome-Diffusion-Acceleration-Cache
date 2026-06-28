@@ -49,5 +49,5 @@
 2025.08,ICCV 2025,OmniCache,OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models,DiT,视频生成,Zhipu AI,https://arxiv.org/abs/2508.16212,None,通过全局轨迹分析和曲率节点选择确定缓存重用策略，同时动态估计并滤除噪声，无需训练即可加速推理，并保持扩散变换器生成质量和稳定性。,,,
 2025.08,,MixCache,MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration,DiT,视频生成,Sun Yat-sen University,https://arxiv.org/abs/2508.12691v1,None,提出混合缓存策略，结合上下文感知触发与自适应混合缓存决策，动态选择最佳缓存粒度，实现视频生成加速（如Wan 14B上提升1.94倍，HunyuanVideo上提升1.97倍），同时保持生成质量。,,,
 2025.09,None,Z-Cache,Z-Cache: Accelerating Diffusion Transformers via  Self-Reflection,DiT,"图片生成, 视频生成",Shanghai Jiao Tong University,None,https://github.com/Shenyi-Z/Cache4Diffusion/,,,是,
-2026.06,ECCV 2026,ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration,DiT,"图片生成, 视频生成",Zhejiang University,https://github.com/zqc214/ResilPhase/,,,是
+2026.06,ECCV 2026,ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration,DiT,"图片生成, 视频生成",Zhejiang University,https://github.com/zqc214/ResilPhase/,https://arxiv.org/abs/2606.26769,,,,
 ,,,,,,,,,,,,
