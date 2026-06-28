@@ -475,7 +475,7 @@ This repository aims to provide a comprehensive and up-to-date collection of aca
 
   *Qicheng Zhao, Yu Li, Qi Sun, Zheyu Yan.*
 
-  [[Paper](https://arxiv.org/abs/2606.26769)] ![](https://img.shields.io/badge/ResilPhase-blue) ![](https://img.shields.io/badge/Phase Mapping-green) ![](https://img.shields.io/badge/Macro-Trajectory-orange)
+  [[Paper](https://arxiv.org/abs/2606.26769)] ![](https://img.shields.io/badge/ResilPhase-blue) ![](https://img.shields.io/badge/Phase-Mapping-green) ![](https://img.shields.io/badge/Macro-Trajectory-orange)
 
 
 
