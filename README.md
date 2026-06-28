@@ -471,6 +471,12 @@ This repository aims to provide a comprehensive and up-to-date collection of aca
 
   [[Paper](https://arxiv.org/pdf/2509.00052)] ![](https://img.shields.io/badge/LightningCP-blue) ![](https://img.shields.io/badge/Talking_Head-green) ![](https://img.shields.io/badge/Parallel_Denoising-orange)
 
+- **[69] ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration**, ECCV 2026.
+
+  *Qicheng Zhao, Yu Li, Qi Sun, Zheyu Yan.*
+
+  [[Paper](https://arxiv.org/abs/2606.26769)] ![](https://img.shields.io/badge/ResilPhase-blue) ![](https://img.shields.io/badge/Phase Mapping-green) ![](https://img.shields.io/badge/Macro Trajectory-orange)
+
 
 
 
